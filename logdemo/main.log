@@ -803,3 +803,40 @@
 2015-09-15 13:38:41,742 DEBUG [logdemo.inner.heartbeat] debug , I hate you.
 2015-09-15 13:38:41,742 WARNI [logdemo.inner.heartbeat] warn, I do not like you
 2015-09-15 13:38:41,742 ERROR [logdemo.inner.heartbeat] error, I fuck you
+2015-09-15 13:39:28,699 INFO  [__main__] heartbeat start ...
+2015-09-15 13:39:28,700 INFO  [logdemo.inner.heartbeat] hello, I love you.
+2015-09-15 13:39:28,700 DEBUG [logdemo.inner.heartbeat] debug , I hate you.
+2015-09-15 13:39:28,700 WARNI [logdemo.inner.heartbeat] warn, I do not like you
+2015-09-15 13:39:28,700 ERROR [logdemo.inner.heartbeat] error, I fuck you
+2015-09-15 13:39:29,701 INFO  [logdemo.inner.heartbeat] hello, I love you.
+2015-09-15 13:39:29,702 DEBUG [logdemo.inner.heartbeat] debug , I hate you.
+2015-09-15 13:39:29,702 WARNI [logdemo.inner.heartbeat] warn, I do not like you
+2015-09-15 13:39:29,702 ERROR [logdemo.inner.heartbeat] error, I fuck you
+2015-09-15 13:39:30,703 INFO  [logdemo.inner.heartbeat] hello, I love you.
+2015-09-15 13:39:30,703 DEBUG [logdemo.inner.heartbeat] debug , I hate you.
+2015-09-15 13:39:30,703 WARNI [logdemo.inner.heartbeat] warn, I do not like you
+2015-09-15 13:39:30,704 ERROR [logdemo.inner.heartbeat] error, I fuck you
+2015-09-15 13:39:31,704 INFO  [logdemo.inner.heartbeat] hello, I love you.
+2015-09-15 13:39:31,705 DEBUG [logdemo.inner.heartbeat] debug , I hate you.
+2015-09-15 13:39:31,705 WARNI [logdemo.inner.heartbeat] warn, I do not like you
+2015-09-15 13:39:31,705 ERROR [logdemo.inner.heartbeat] error, I fuck you
+2015-09-15 13:39:32,705 INFO  [logdemo.inner.heartbeat] hello, I love you.
+2015-09-15 13:39:32,706 DEBUG [logdemo.inner.heartbeat] debug , I hate you.
+2015-09-15 13:39:32,706 WARNI [logdemo.inner.heartbeat] warn, I do not like you
+2015-09-15 13:39:32,706 ERROR [logdemo.inner.heartbeat] error, I fuck you
+2015-09-15 13:39:33,707 INFO  [logdemo.inner.heartbeat] hello, I love you.
+2015-09-15 13:39:33,707 DEBUG [logdemo.inner.heartbeat] debug , I hate you.
+2015-09-15 13:39:33,707 WARNI [logdemo.inner.heartbeat] warn, I do not like you
+2015-09-15 13:39:33,707 ERROR [logdemo.inner.heartbeat] error, I fuck you
+2015-09-15 13:39:34,708 INFO  [logdemo.inner.heartbeat] hello, I love you.
+2015-09-15 13:39:34,708 DEBUG [logdemo.inner.heartbeat] debug , I hate you.
+2015-09-15 13:39:34,708 WARNI [logdemo.inner.heartbeat] warn, I do not like you
+2015-09-15 13:39:34,708 ERROR [logdemo.inner.heartbeat] error, I fuck you
+2015-09-15 13:39:35,709 INFO  [logdemo.inner.heartbeat] hello, I love you.
+2015-09-15 13:39:35,709 DEBUG [logdemo.inner.heartbeat] debug , I hate you.
+2015-09-15 13:39:35,709 WARNI [logdemo.inner.heartbeat] warn, I do not like you
+2015-09-15 13:39:35,709 ERROR [logdemo.inner.heartbeat] error, I fuck you
+2015-09-15 13:39:36,710 INFO  [logdemo.inner.heartbeat] hello, I love you.
+2015-09-15 13:39:36,711 DEBUG [logdemo.inner.heartbeat] debug , I hate you.
+2015-09-15 13:39:36,711 WARNI [logdemo.inner.heartbeat] warn, I do not like you
+2015-09-15 13:39:36,711 ERROR [logdemo.inner.heartbeat] error, I fuck you
